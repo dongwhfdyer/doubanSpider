@@ -1,0 +1,201 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="a4f55053-65ff-4e20-816e-dca5d5f9df18" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1uyh77hwVaRi4VIMN0laZIF3rWC" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+  </component>
+  <component name="RunManager" selected="Python.e">
+    <configuration name="e" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="doubanSpider" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/e.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="true" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="spider" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="doubanSpider" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/spider.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="true" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="spider_try2" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="doubanSpider" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/spider_try2.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="true" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.spider_try2" />
+        <item itemvalue="Python.e" />
+        <item itemvalue="Python.spider" />
+        <item itemvalue="Python.spider" />
+        <item itemvalue="Python.spider" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="a4f55053-65ff-4e20-816e-dca5d5f9df18" name="Default Changelist" comment="" />
+      <created>1625643565359</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1625643565359</updated>
+      <workItem from="1625643566548" duration="10674000" />
+      <workItem from="1625986022593" duration="88000" />
+      <workItem from="1626161015906" duration="1255000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="688" y="185" key="#xdebugger.XInspectDialog" timestamp="1625653202113">
+      <screen x="62" y="0" width="1474" height="864" />
+    </state>
+    <state x="688" y="185" key="#xdebugger.XInspectDialog/62.0.1474.864@62.0.1474.864" timestamp="1625653202113" />
+    <state width="1815" height="277" key="GridCell.Tab.0.bottom" timestamp="1625749912610">
+      <screen x="62" y="0" width="1858" height="1200" />
+    </state>
+    <state width="1815" height="277" key="GridCell.Tab.0.bottom/1970.0.1486.864/62.0.1858.1200@62.0.1858.1200" timestamp="1625749912610" />
+    <state width="1431" height="277" key="GridCell.Tab.0.bottom/62.0.1474.864@62.0.1474.864" timestamp="1625653811111" />
+    <state width="1815" height="277" key="GridCell.Tab.0.center" timestamp="1625749912610">
+      <screen x="62" y="0" width="1858" height="1200" />
+    </state>
+    <state width="1815" height="277" key="GridCell.Tab.0.center/1970.0.1486.864/62.0.1858.1200@62.0.1858.1200" timestamp="1625749912610" />
+    <state width="1431" height="277" key="GridCell.Tab.0.center/62.0.1474.864@62.0.1474.864" timestamp="1625653811111" />
+    <state width="1815" height="277" key="GridCell.Tab.0.left" timestamp="1625749912609">
+      <screen x="62" y="0" width="1858" height="1200" />
+    </state>
+    <state width="1815" height="277" key="GridCell.Tab.0.left/1970.0.1486.864/62.0.1858.1200@62.0.1858.1200" timestamp="1625749912609" />
+    <state width="1431" height="277" key="GridCell.Tab.0.left/62.0.1474.864@62.0.1474.864" timestamp="1625653811111" />
+    <state width="1815" height="277" key="GridCell.Tab.0.right" timestamp="1625749912610">
+      <screen x="62" y="0" width="1858" height="1200" />
+    </state>
+    <state width="1815" height="277" key="GridCell.Tab.0.right/1970.0.1486.864/62.0.1858.1200@62.0.1858.1200" timestamp="1625749912610" />
+    <state width="1431" height="277" key="GridCell.Tab.0.right/62.0.1474.864@62.0.1474.864" timestamp="1625653811111" />
+    <state width="1815" height="277" key="GridCell.Tab.1.bottom" timestamp="1625749912611">
+      <screen x="62" y="0" width="1858" height="1200" />
+    </state>
+    <state width="1815" height="277" key="GridCell.Tab.1.bottom/1970.0.1486.864/62.0.1858.1200@62.0.1858.1200" timestamp="1625749912611" />
+    <state width="1431" height="277" key="GridCell.Tab.1.bottom/62.0.1474.864@62.0.1474.864" timestamp="1625653814599" />
+    <state width="1815" height="277" key="GridCell.Tab.1.center" timestamp="1625749912611">
+      <screen x="62" y="0" width="1858" height="1200" />
+    </state>
+    <state width="1815" height="277" key="GridCell.Tab.1.center/1970.0.1486.864/62.0.1858.1200@62.0.1858.1200" timestamp="1625749912611" />
+    <state width="1431" height="277" key="GridCell.Tab.1.center/62.0.1474.864@62.0.1474.864" timestamp="1625653814599" />
+    <state width="1815" height="277" key="GridCell.Tab.1.left" timestamp="1625749912610">
+      <screen x="62" y="0" width="1858" height="1200" />
+    </state>
+    <state width="1815" height="277" key="GridCell.Tab.1.left/1970.0.1486.864/62.0.1858.1200@62.0.1858.1200" timestamp="1625749912610" />
+    <state width="1431" height="277" key="GridCell.Tab.1.left/62.0.1474.864@62.0.1474.864" timestamp="1625653814599" />
+    <state width="1815" height="277" key="GridCell.Tab.1.right" timestamp="1625749912611">
+      <screen x="62" y="0" width="1858" height="1200" />
+    </state>
+    <state width="1815" height="277" key="GridCell.Tab.1.right/1970.0.1486.864/62.0.1858.1200@62.0.1858.1200" timestamp="1625749912611" />
+    <state width="1431" height="277" key="GridCell.Tab.1.right/62.0.1474.864@62.0.1474.864" timestamp="1625653814599" />
+    <state width="744" height="439" key="XDebugger.FullValuePopup" timestamp="1625645237645">
+      <screen x="62" y="0" width="1474" height="864" />
+    </state>
+    <state width="744" height="439" key="XDebugger.FullValuePopup/62.0.1474.864@62.0.1474.864" timestamp="1625645237645" />
+    <state x="421" y="28" width="755" height="807" key="find.popup" timestamp="1625644857747">
+      <screen x="62" y="0" width="1474" height="864" />
+    </state>
+    <state x="421" y="28" width="755" height="807" key="find.popup/62.0.1474.864@62.0.1474.864" timestamp="1625644857747" />
+  </component>
+  <component name="XDebuggerManager">
+    <watches-manager>
+      <configuration name="PythonConfigurationType">
+        <watch expression="req.text" language="Python" />
+        <watch expression="__py_debug_temp_var_981544474" />
+      </configuration>
+    </watches-manager>
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/doubanSpider$spider_try2.coverage" NAME="spider_try2 Coverage Results" MODIFIED="1625653811028" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/doubanSpider$spider.coverage" NAME="spider Coverage Results" MODIFIED="1625643850717" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+  </component>
+</project>
